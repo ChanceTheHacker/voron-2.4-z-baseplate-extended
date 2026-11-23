@@ -1,0 +1,4 @@
+CAD/voron_originals/
+__pycache__/
+*.pyc
+.venv/
